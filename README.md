@@ -1,1 +1,1 @@
-Projekt 3 semestr programowanie obiektowe - MichalStyka w67193
+Projekt 3 semestr programowanie obiektowe: Automat z napojami - MichalStyka w67193
