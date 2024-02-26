@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Automat.Klasy.zimneNapoje" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Klasy\zimneNapoje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Klasy.User" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Klasy\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Klasy.Napoje" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Klasy\Napoje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Klasy.Klient" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Klasy\Klient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Klasy.ciepleNapoje" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAg=</HashCode>
+      <FileName>Klasy\ciepleNapoje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Klasy.AutomatNapoje" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAhACAAgQKAIAAEAAACAGAAABEIAQQBAQAAAVAA=</HashCode>
+      <FileName>Klasy\AutomatNapoje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Klasy.Admin" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Klasy\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Aplikacja.Program" Collapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Aplikacja\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Aplikacja.OnScreen" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAgEgAAAgAAAAAAAAAQAAAAABAAAAQAEgA=</HashCode>
+      <FileName>Aplikacja\OnScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Aplikacja.Menu" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAABAAAAA=</HashCode>
+      <FileName>Aplikacja\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automat.Aplikacja.Dodatki" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAACAQ=</HashCode>
+      <FileName>Aplikacja\Dodatki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
